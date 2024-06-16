@@ -1,4 +1,3 @@
-#qwerty
 
 # requirements - pandas, SQLAlchemy, psycopg2, fuzzywuzzy,
 import pandas as pd
